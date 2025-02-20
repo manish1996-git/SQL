@@ -1,1 +1,1 @@
-select * from Tbl_InvoiceSettlement where 1=1
+select * from Tbl_InvoiceSettlement where 1=2
